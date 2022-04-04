@@ -49,6 +49,7 @@ $border-radius: 10px;
     }
   } 
   .App-header {
+    box-sizing: border-box;
     padding: 10%;
     background-color: #282c34;
     min-height: 100vh;
